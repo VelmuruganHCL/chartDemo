@@ -1,6 +1,6 @@
 {  
    "title":"Total College Details",
-   "sum":24,
+   "sum":25,
    "series":[  
       {  
          "name":"Engineering",
@@ -9,7 +9,7 @@
       },
       {  
          "name":"Medical",
-         "y":6,
+         "y":7,
          "color":"#DB8F25"
       },
       {  
