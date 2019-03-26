@@ -1,21 +1,26 @@
-{  
-   "title":"Total College Details",
-   "sum":"25",
-   "series":[  
-      {  
-         "name":"Engineering",
-         "y":"12",
-         "color":" #FFD025"
-      },
-      {  
-         "name":"Medical",
-         "y":"7",
-         "color":"#DB8F25"
-      },
-      {  
-         "name":"Arts",
-         "y":"6",
-         "color":"#D4534C"
-      }
-   ]
+{
+  "posts": [
+     {  
+      "id": 1,
+      "title":"Total College Details",
+      "sum":"25",
+      "series":[  
+         {  
+            "name":"Engineering",
+            "y":"12",
+            "color":" #FFD025"
+         },
+         {  
+            "name":"Medical",
+            "y":"7",
+            "color":"#DB8F25"
+         },
+         {  
+            "name":"Arts",
+            "y":"6",
+            "color":"#D4534C"
+         }
+      ]
+   }
+  ]
 }
